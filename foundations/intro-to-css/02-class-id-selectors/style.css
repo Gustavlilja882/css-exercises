@@ -1,0 +1,19 @@
+.pinkheader-s {
+  background-color: pink;
+  font-size: 20px;
+}
+.pinkheader {
+  background-color: pink;
+  font-size: 40px;
+}
+#Number-2 { 
+  background-color: white;
+  font-size: 45px;
+  color : blue;
+    font-weight: 600;
+}
+#Number-4 {
+  background-color: lightgreen;
+  font-size: 35px;
+  font-weight: 700;
+}
